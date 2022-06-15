@@ -7,6 +7,6 @@ Throughout my university life, I have always aimed to be an engineer open to dev
 
  🌱 I’m currently learning Selenıum
 
- 📫 You can reach me on www.linkedin.com/in/yavuzarslann
+ 📫 You can reach me on [LinkedIn](www.linkedin.com/in/yavuzarslann)
 
 
